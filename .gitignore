@@ -1,12 +1,4 @@
-web/bundles/
-web/media/
-web/js
 app/cache/*
 app/logs/*
-build/
-app/config/config_*_local.yml
 .idea/*
 /app/bootstrap.php.cache
-/vendor/*
-composer.phar
-bin/*
